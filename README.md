@@ -1,71 +1,86 @@
-# 📊 ABC Executive Summary & Profitability Dashboard | Excel
+# 📊 ABC Executive Summary & Profitability Dashboard | Microsoft Excel
 
-An interactive and professional **Sales & Profitability Dashboard built using Microsoft Excel** to analyze business performance, monitor key financial metrics, and generate actionable insights across global markets. This project transforms raw sales data into meaningful visualizations, helping stakeholders understand revenue trends, profitability, sales channel performance, and geographical sales distribution.
+An interactive **Sales & Profitability Dashboard built using Microsoft Excel** to analyze business performance, track financial KPIs, and generate actionable insights from global sales data.
 
-## 🚀 Project Overview
+This project transforms raw transactional data into an executive-level dashboard featuring dynamic charts, interactive filters, financial performance indicators, sales channel analysis, and geographical insights.
 
-The ABC Executive Summary & Profitability Dashboard provides a centralized view of business performance through interactive KPI cards, dynamic charts, Pivot Tables, and Slicers. It enables users to explore sales data across different years, quarters, regions, countries, product categories, and customer segments.
+## 📌 Project Overview
+
+The ABC Executive Summary & Profitability Dashboard provides a comprehensive overview of business performance through interactive KPI cards, Pivot Tables, Pivot Charts, and Slicers.
+
+Users can explore sales trends across different years, quarters, regions, countries, sales channels, and product categories to better understand revenue generation, profitability, and market performance.
 
 ## ✨ Key Features
 
-### 📈 Executive Summary KPIs
+### 📈 1. Executive Summary KPIs
+
+The dashboard highlights key business performance indicators:
+
 - **Total Revenue:** $6.45M+
 - **Gross Profit:** $2.96M+
 - **Gross Profit Margin:** 45.94%
-- **Total Units Sold:** Track overall product sales volume.
-- **Total Orders:** Monitor order activity and sales performance.
-- **Cost of Goods Sold (COGS):** Analyze the cost associated with sales.
+- **Total Units Sold:** Overall product sales volume.
+- **Total Orders:** Total order activity.
+- **Cost of Goods Sold (COGS):** Cost associated with sold products.
 
-### 📅 Dynamic Time-Series Analysis
+### 📅 2. Sales Trend Analysis
+
 - Analyze monthly revenue and profit trends.
 - Compare business performance across 2025 and 2026.
-- Explore quarterly and monthly sales performance.
-- Identify revenue patterns and profitability trends.
+- Explore quarterly and monthly sales patterns.
+- Identify changes in revenue and profitability over time.
 
-### 🛒 Sales Channel Analysis
-- Compare revenue contribution across different sales channels.
+### 🛒 3. Sales Channel Analysis
+
+- Compare revenue contributions across different sales channels.
 - Analyze Corporate, Online Store, Retail Partners, and other channels.
-- Identify high-performing sales channels and business opportunities.
+- Identify high-performing channels and potential growth opportunities.
 
-### 🌍 Geographical Sales Insights
-- Analyze sales performance by region and country.
-- Identify top-performing markets, including the United Kingdom and Spain.
+### 🌍 4. Geographical Sales Analysis
+
+- Compare sales performance across regions and countries.
+- Explore top-performing markets, including the United Kingdom and Spain.
 - Visualize country-wise sales distribution using a map chart.
-- Compare geographical revenue and profitability.
+- Evaluate geographical revenue and profitability trends.
 
-### 🎛️ Interactive Excel Features
-- Pivot Tables for data aggregation and analysis.
+### 🎛️ 5. Interactive Excel Dashboard
+
+- Pivot Tables for data aggregation.
+- Pivot Charts for dynamic data visualization.
 - Slicers for interactive filtering.
-- Pivot Charts for dynamic visualizations.
-- Conditional Formatting for highlighting important metrics.
-- Excel formulas and automated data-processing workflows.
+- Excel formulas for KPI calculations.
+- Conditional Formatting to highlight important metrics.
+- Automated data analysis and reporting workflows.
+
+## 🖥️ Dashboard Preview
+
+![ABC Executive Summary and Profitability Dashboard](https://github.com/user-attachments/assets/2cd45aef-f32b-409a-87f8-ca4c78d395da)
 
 ## 📂 Project Structure
 
 ```text
-ABC-Executive-Summary-Dashboard/
+Excel_dashboard/
 │
-├── Excel_Sales_Dashboard.xlsx   # Main Excel dashboard
-├── Dashboard Video.mp4          # Dashboard walkthrough
-└── README.md                    # Project documentation
+├── Excel_Sales_Dashboard.xlsx
+├── Screenshot 2026-10-31 122311.png
+└── README.md
 ```
-
-*Note: Update the file names above if your actual repository uses different names.*
 
 ## 🗂️ Dashboard Components
 
-| Sheet | Description |
+| Worksheet | Description |
 |---|---|
-| **Dashboard** | Executive summary, KPI cards, financial trends, charts, and geographical insights. |
-| **Pivot Tables** | Backend aggregations supporting dashboard calculations and visualizations. |
+| **Dashboard** | Executive summary, KPI cards, financial charts, sales trends, and geographical insights. |
+| **Pivot Tables** | Data aggregations used to support dashboard calculations and visualizations. |
 | **Data** | Raw transactional sales data used for analysis. |
 
-### 📋 Dataset Overview
+## 📋 Dataset Overview
 
-The dataset includes sales-related fields such as:
+The dataset contains sales-related information, including:
 
 - Order Date
-- Region and Country
+- Region
+- Country
 - Sales Channel
 - Customer Type
 - Product Category
@@ -73,44 +88,51 @@ The dataset includes sales-related fields such as:
 - Unit Price
 - Cost
 
+These fields support the analysis of sales performance, profitability, customer segments, and geographical trends.
+
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel**
-- Pivot Tables & Pivot Charts
+- Pivot Tables and Pivot Charts
 - Excel Formulas
-- Slicers & Interactive Filters
+- Slicers and Interactive Filters
 - Conditional Formatting
-- Data Analysis & Visualization
+- Data Analysis and Visualization
+- KPI Reporting
 - Sales and Profitability Analysis
 
-## 💡 Business Insights
+## 💡 Business Value & Insights
 
 This dashboard helps users:
 
-- Monitor overall revenue and gross profitability.
-- Evaluate profit margins and cost performance.
+- Monitor overall revenue, gross profit, and profit margins.
+- Understand cost performance and profitability.
 - Identify monthly and quarterly sales trends.
 - Compare sales channels and geographical markets.
+- Evaluate business performance using key performance indicators.
 - Support data-driven business decisions through interactive reporting.
 
 ## ▶️ How to Use
 
 1. Clone or download this repository.
-2. Open `Excel_Sales_Dashboard.xlsx` in Microsoft Excel.
-3. Navigate to the **Dashboard** worksheet.
-4. Use the available Slicers and filters to explore years, quarters, regions, countries, and other business dimensions.
-5. Review the KPI cards and charts to understand business performance.
+2. Download `Excel_Sales_Dashboard.xlsx` from the repository.
+3. Open the workbook using Microsoft Excel.
+4. Navigate to the **Dashboard** worksheet.
+5. Use Slicers and available filters to explore sales data by year, quarter, region, country, and other dimensions.
+6. Review the KPI cards and charts to analyze business performance.
 
-**Recommendation:** Use a desktop version of Microsoft Excel with Pivot Table, Pivot Chart, and Slicer support for the best interactive experience.
+**Note:** A desktop version of Microsoft Excel with Pivot Table, Pivot Chart, and Slicer support is recommended for the best interactive experience.
 
 ## 🎯 Project Objective
 
-The primary objective of this project is to demonstrate practical skills in **Excel-based data analysis, KPI reporting, financial performance monitoring, and interactive dashboard development**. It showcases how raw transactional data can be converted into a clear and actionable executive reporting solution.
-## Data Used
-- <a herf="https://github.com/Amit-kushwaha12/Excel_dashboard/blob/main/Excel_Sales_Dashboard.xlsx">dashbord-view</a>
-- dasboard
--<a herf="https://github.com/Amit-kushwaha12/Excel_dashboard/blob/main/Screenshot%202026-10-31%20122311.png>Dashboard</a>
-<img width="1865" height="606" alt="Screenshot 2026-10-31 122311" src="https://github.com/user-attachments/assets/2cd45aef-f32b-409a-87f8-ca4c78d395da" />
+The objective of this project is to demonstrate practical skills in **Excel-based data analysis, financial KPI reporting, data visualization, and interactive dashboard development**.
+
+It showcases how raw transactional data can be transformed into meaningful business insights through structured analysis and professional reporting.
+
+## 📥 Project Files
+
+- [**Download Excel Sales Dashboard**](https://github.com/Amit-kushwaha12/Excel_dashboard/blob/main/Excel_Sales_Dashboard.xlsx)
+- [**View Dashboard Screenshot**](https://github.com/Amit-kushwaha12/Excel_dashboard/blob/main/Screenshot%202026-10-31%20122311.png)
 
 ## 👨‍💻 Author
 
@@ -118,8 +140,9 @@ The primary objective of this project is to demonstrate practical skills in **Ex
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
-🔗 GitHub: [Amit-kushwaha12](https://github.com/Amit-kushwaha12)
+- GitHub: [Amit-kushwaha12](https://github.com/Amit-kushwaha12)
 
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+ect useful, consider giving the repository a star!
