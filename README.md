@@ -108,7 +108,7 @@ This dashboard helps users:
 The primary objective of this project is to demonstrate practical skills in **Excel-based data analysis, KPI reporting, financial performance monitoring, and interactive dashboard development**. It showcases how raw transactional data can be converted into a clear and actionable executive reporting solution.
 ## Data Used
 - <a herf="https://github.com/Amit-kushwaha12/Excel_dashboard/blob/main/Excel_Sales_Dashboard.xlsx">dashbord-view</a>
--dasboard
+- dasboard
 -<a herf="https://github.com/Amit-kushwaha12/Excel_dashboard/blob/main/Screenshot%202026-10-31%20122311.png>Dashboard</a>
 <img width="1865" height="606" alt="Screenshot 2026-10-31 122311" src="https://github.com/user-attachments/assets/2cd45aef-f32b-409a-87f8-ca4c78d395da" />
 
